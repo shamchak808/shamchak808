@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamchak808
 - 👀 I’m interested in creating unique sounds to use in musical performances
-- 🌱 I’m currently learning embedded systems programming
+- 🌱 I’m currently working on embedded rust programming
 - 📫 How to reach me: shamchak808@gmail.com
 
 <!---
